@@ -75,6 +75,12 @@ weighted avg       0.61      0.61      0.60      7178
 ```
 
 - Generate a confusion matrix and classification report to assess performance metrics.
+## Results
+### Metrics
+- Accuracy:
+  - Baseline CNN: ~65%
+  - VGG16 Transfer Learning: ~63.11
+  - ResNet: ~62.61
 
 
 
